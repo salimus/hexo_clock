@@ -28,3 +28,4 @@ function hexClock() {
 }
 
 hexClock();
+setInterval(hexClock, 1000);
